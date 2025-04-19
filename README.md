@@ -5,19 +5,19 @@ This is a small collection of C programs that suggests a solution to a bunch of 
 
 ## Programs
 ### 2. Classic Spiral Fill
-It copies all the elements of a matrix into an array following the usual sprial order .
+It copies all the elements of a matrix into an array following the usual sprial order 
 https://leetcode.com/problems/spiral-matrix/description/
 
 ### 2. Classic Spiral Fill
-Fills the matrix starting from the top-left corner (0,0) and moves clockwise.
+Fills the matrix starting from the top-left corner (0,0) and moves clockwise
 the prob link : https://leetcode.com/problems/spiral-matrix-ii/description/
 
 ### 2. Centered Spiral Fill
-Fills the matrix starting from a given point and spirals outward.
+Fills the matrix starting from a given point and spirals outward
 the prob link : https://leetcode.com/problems/spiral-matrix-iii/
 
 ### 3. Specilazed Centered Spiral Fill
-Fills the matrix starting from a given point and spirals outward with a given array given by the user .
+Fills the matrix starting from a given point and spirals outward with a given array given by the user 
 the prob link : https://leetcode.com/problems/spiral-matrix-iv/description/
 
 ---
