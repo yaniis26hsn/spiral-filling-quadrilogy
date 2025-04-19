@@ -25,8 +25,4 @@ clone rep : https://github.com/yaniis26hsn/spiral-filling-trilogy
 ## How to Run
 
 You'll need a C compiler (like `gcc`).  
-To compile:
 
-```bash
-gcc classic_spiral.c -o classic
-gcc centered_spiral.c -o centered
