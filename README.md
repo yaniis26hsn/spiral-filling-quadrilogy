@@ -1,4 +1,4 @@
-# Spiral Filling Tetrlogy(quadrilogy)
+# Spiral Filling Tetrlogy (quadrilogy)
 
 This is a small collection of C programs that suggests a solution to a bunch of leetcode problems which demends following the spiral order .
 
@@ -17,7 +17,7 @@ Fills the matrix starting from a given point and spirals outward.
 the prob link : https://leetcode.com/problems/spiral-matrix-iii/
 
 ### 3. Specilazed Centered Spiral Fill
-Fills the matrix starting from a given point and spirals outward with a given array given by the user 
+Fills the matrix starting from a given point and spirals outward with a given array given by the user .
 the prob link : https://leetcode.com/problems/spiral-matrix-iv/description/
 
 ---
